@@ -66,4 +66,4 @@ $ python temp_monitor.py
 
 
 ## 5. 발표영상
-youtube link: 
+youtube link: https://youtu.be/u61D2RRJqbw
