@@ -1,9 +1,8 @@
 Open Source Software Final Project
 ===============================
+### 21600062 Kim Miso
 - Raspberry Pi
 - real time temperature checking server
-
-### 21600062 Kim Miso
 
 ## 개요
 1. 라즈베리 파이의 온도에 대한 정보를 실시간으로 서버에 전송한다.
@@ -53,3 +52,6 @@ $ python temp_monitor.py
 * ctrl + c를 한번 더 누르면 .csv 파일로의 기록이 종료된다.
 
 ![csvfile.PNG](https://github.com/miso062/OSS_FinalProject/blob/master/img/csvfile.PNG)
+
+## 5. 발표영상
+youtube link: 
