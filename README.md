@@ -67,3 +67,10 @@ $ python temp_monitor.py
 
 ## 5. 발표영상
 youtube link: https://youtu.be/u61D2RRJqbw
+
+
+## 6. 참고
+* CPU 온도 확인 + .csv 저장: https://projects.raspberrypi.org/en/projects/temperature-log
+* 라즈베리파이 서버(nginx + flask): https://taetaetae.github.io/2018/07/01/simple-web-server-flask-nginx/
+* 그 외: Miso 
+
